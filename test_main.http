@@ -9,3 +9,15 @@ GET http://127.0.0.1:8000/hello/User
 Accept: application/json
 
 ###
+
+GET http://127.0.0.1:8000/test/path/whatever
+Accept: application/json
+
+
+###
+
+#Idk how to implement the test case here...
+#POST http://127.0.0.1:8000/test/post
+#Accept: application/json
+#{ "name": "Country",
+# "description": "Test"}
